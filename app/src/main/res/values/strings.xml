@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Boookado</string>
+    <string name="title_activity_listar">ListarActivity</string>
+    <string name="texto_home"> Bem vindo! Quantos livros você já leu esse ano?</string>
+</resources>

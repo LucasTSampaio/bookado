@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/op_excluir"
+        android:onClick="excluir"
+        android:title="Excluir" />
+    <item
+        android:id="@+id/op_atualizar"
+        android:onClick="atualizar"
+        android:title="Atualizar" />
+</menu>
